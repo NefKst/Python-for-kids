@@ -1,3 +1,5 @@
+#λειπει ο σχολιασμος
+
 ektasi = float(input("Πόσα τ.μ. είναι το ακίνητο;"))
 perioxi = str(input("Σε ποια περιοχή βρίσκεται το ακίνητο;"))
 if perioxi == "ΚΕΝΤΡΟ" or perioxi =="Κέντρο" or perioxi =="κέντρο":
