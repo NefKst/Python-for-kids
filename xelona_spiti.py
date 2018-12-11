@@ -1,0 +1,26 @@
+import turtle as t
+
+t.speed(1)
+t.color("pink")
+t.pensize(3)
+   
+t.hideturtle()           
+t.penup()                
+t.goto(-200, -200)       
+t.showturtle()           
+t.pendown() 
+
+t.forward(200)
+t.left(90)
+t.forward(200)
+t.left(90)
+t.forward(200)
+t.left(90)
+t.forward(200)
+t.left(90)
+t.left(90)
+t.forward(200)
+t.right(30)
+t.forward(200)
+t.right(120)
+t.forward(200)
